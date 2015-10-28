@@ -14,7 +14,7 @@
 	return function fixAfloat(float) {
 		var str = float.toString();
 		
-		if (str.length < 18) {
+		if (str.length < 17) {
 			return float;
 		}
 

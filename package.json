@@ -1,6 +1,6 @@
 {
   "name": "fix-a-float",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove precision nightmares from numbers.",
   "main": "fix-a-float.js",
   "scripts": {
