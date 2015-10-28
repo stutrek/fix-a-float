@@ -1,0 +1,23 @@
+{
+  "name": "fix-a-float",
+  "version": "1.0.0",
+  "description": "Remove precision nightmares from numbers.",
+  "main": "fix-a-float.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sakabako/fix-a-float.git"
+  },
+  "keywords": [
+    "float",
+    "precision"
+  ],
+  "author": "Stu Kabakoff <sakabako@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sakabako/fix-a-float/issues"
+  },
+  "homepage": "https://github.com/sakabako/fix-a-float"
+}

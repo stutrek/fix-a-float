@@ -1,0 +1,26 @@
+{
+  "name": "fix-a-float",
+  "main": "fix-a-float.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sakabako/fix-a-float",
+  "authors": [
+    "Stu Kabakoff <sakabako@gmail.com>"
+  ],
+  "description": "Remove precision nightmares from numbers.",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "float",
+    "precision"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
