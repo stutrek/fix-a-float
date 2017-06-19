@@ -1,6 +1,6 @@
 # Fix-A-Float
 
-Ever had this problem?
+99.0000000000000005% of the time floating point math is perfect. The rest of the time we have this problem:
 
 ```
 >> 0.1 + 0.2
