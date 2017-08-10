@@ -1,4 +1,4 @@
-# ![Fix-A-Float](./fix-a-float.svg)
+# ![Fix-A-Float](http://stutrek.github.io/fix-a-float/fix-a-float.svg)
 
 99.0000000000000005% of the time floating point math is perfect. The rest of the time we have this problem:
 
